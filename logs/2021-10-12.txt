@@ -1,0 +1,12 @@
+[12-Oct-2021 09:55:58 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/XAMPP/xamppfiles/htdocs/PHP/framework/public/index.php(32): Core\Router->dispatch('postsd')
+#1 {main}
+Thrown in '/Applications/XAMPP/xamppfiles/htdocs/PHP/framework/Core/Router.php' on line 84
+[12-Oct-2021 10:02:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/XAMPP/xamppfiles/htdocs/PHP/framework/public/index.php(32): Core\Router->dispatch('oeit')
+#1 {main}
+Thrown in '/Applications/XAMPP/xamppfiles/htdocs/PHP/framework/Core/Router.php' on line 84
+[12-Oct-2021 10:09:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/XAMPP/xamppfiles/htdocs/PHP/framework/public/index.php(32): Core\Router->dispatch('oeit')
+#1 {main}
+Thrown in '/Applications/XAMPP/xamppfiles/htdocs/PHP/framework/Core/Router.php' on line 84
